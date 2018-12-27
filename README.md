@@ -1,5 +1,8 @@
 #demo
 first time
 ## hi hello
+git remote add origin git@github.com:vamshi9119/git-demo.git
+ldsajflksjkdjdsds
 
-ldsajflksjf;lksjfds
+updating for remote
+;lksjfds
